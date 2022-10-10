@@ -1,6 +1,6 @@
 {
-  "name": "@johndohoneyjr/package-build",
-    "version": "1.0.0",
+  "name": "@https://github.com/johndohoneyjr/package-build.git",
+    "version": "1.0.1",
     "description": "this is a test",
     "main": "index.js",
     "publishConfig": {
