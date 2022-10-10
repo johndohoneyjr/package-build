@@ -1,5 +1,5 @@
 {
-  "name": "@https://github.com/johndohoneyjr/package-build.git",
+  "name": "@github.com/johndohoneyjr/package-build.git",
     "version": "1.0.1",
     "description": "this is a test",
     "main": "index.js",
