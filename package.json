@@ -1,5 +1,5 @@
 {
-  "name": "@johndohoneyjr/package-build",
+  "name": "package-build",
     "version": "1.0.3",
     "description": "this is a test",
     "main": "index.js",
@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/johndohoneyjr/package-build.git"
+        "url": "https://github.com/johndohoneyjr/package-build.git"
     },
     "homepage": "http://github.com/johndohoneyjr/package-build",
     "author": "",
