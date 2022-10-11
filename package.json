@@ -1,5 +1,5 @@
 {
-  "name": "johndohoneyjr/package-build",
+  "name": "@johndohoneyjr/package-build",
     "version": "1.0.5",
     "description": "this is a test",
     "main": "index.js",
