@@ -1,6 +1,6 @@
 {
   "name": "package-build",
-    "version": "1.0.3",
+    "version": "1.0.5",
     "description": "this is a test",
     "main": "index.js",
     "publishConfig": {
