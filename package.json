@@ -1,6 +1,6 @@
 {
   "name": "@johndohoneyjr/package-build",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "this is a test",
     "main": "index.js",
     "publishConfig": {
@@ -11,8 +11,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/johndohoneyjr/package-build.git"
+        "url": "git://github.com/johndohoneyjr/package-build.git"
     },
+    "homepage": "http://github.com/johndohoneyjr/package-build",
     "author": "",
     "license": "ISC"
 }
